@@ -1,4 +1,4 @@
-# Actualización de dimensiones — DataCaos (esquema estrella)
+# Actualización de dimensiones - DataCaos (esquema estrella)
 
 Pipelines en Python para actualizar las dimensiones **DimCliente**, **DimTienda** y **DimProducto** de la base `datacaos_estrella`, tomando como base el ETL de la clase del 22 de septiembre (`pipeline_erp.py`).
 
