@@ -1,0 +1,5 @@
+# Entorno virtual (no se sube, como pidió el profe)
+env/
+venv/
+.venv/
+__pycache__/

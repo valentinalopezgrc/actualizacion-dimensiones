@@ -1,0 +1,9 @@
+COD_PRODUCTO,NOMBRE_PRODUCTO,MARCA,CATEGORIA,PROVEEDOR,PAIS_PROVEEDOR,PRECIO_LISTA
+PRD010,Computador de escritorio,CoreLogic,Equipos de computo,Bogotá Componentes Ltda.,Colombia,1850000
+PRD020,Cargador rápido,PixelWave,Celulares,Maquilas del Norte,México,"$65.000"
+PRD038,Volante para consola,PlayNex,Videojuegos,NorthWave Electronics,Estados Unidos,586000
+ prd039 ,Smartwatch deportivo,PixelWave,CELULARES,Maquilas del Norte,méxico,"$459.900"
+PRD040,Barra de sonido,SoundMax,audio,Global Sound Supplies,China,389000
+PRD041,Freidora de aire,HomeChef,Electrodomésticos,Pacífico Distribuciones,Colombia,329900
+PRD042,Mouse inalámbrico,CoreLogic,Accesorios,Bogotá Componentes Ltda.,Colombia,-45000
+PRD043,Teclado mecánico,CoreLogic,Accesorios,Bogotá Componentes Ltda.,Colombia,precio pendiente

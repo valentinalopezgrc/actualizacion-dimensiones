@@ -1,0 +1,12 @@
+COD_CLIENTE,NOMBRE_CLIENTE,GENERO,RANGO_EDAD,CIUDAD,SEGMENTO
+CLI0005,Nicolás Rodríguez Vargas,M,56-65,Bogotá,VIP
+CLI0010,Lucía Gómez Ríos,F,56-65,cartagena,Regular
+CLI0080,Camilo Guerrero Ramírez,M,56-65,Cali,VIP
+CLI0081,valentina lópez garcía,F,18-25,Bogotá,Nuevo
+ cli0082 ,Andrés Felipe Rojas,masculino,26-35,medellín,nuevo
+CLI0083,Sara Moreno Castro,F,36-45,Pereira,Regular
+CLI0084,Julián Patiño Díaz,M,46-55,Cali,vip
+CLI0085,Daniela Suárez León,F,26-35,Bucaramanga,Nuevo
+CLI0083,Sara Moreno Castro,F,36-45,Pereira,VIP
+CLI0086,,F,18-25,Cali,Nuevo
+CLI0087,Pedro Pérez,X,26-35,Bogotá,Nuevo
