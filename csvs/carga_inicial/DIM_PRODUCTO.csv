@@ -1,0 +1,39 @@
+﻿ProductoID;NombreProducto;MarcaProducto;NombreCategoria;NombreProveedor;PaisProveedor;PrecioListado
+PRD001;Audífonos inalámbricos;SoundMax;Audio;Global Sound Supplies;China;74500
+PRD002;Audífonos con cable;SoundMax;Audio;Global Sound Supplies;China;52000
+PRD003;Parlante Bluetooth portátil;EchoWave;Audio;ShenzhenTech Trading;China;211000
+PRD004;Barra de sonido 2.1;BassPro;Audio;Andina Electrónica S.A.S.;Colombia;425500
+PRD005;Micrófono USB;AudioCity;Audio;Bogotá Componentes Ltda.;Colombia;155000
+PRD006;Parlante para fiestas;BassPro;Audio;Andina Electrónica S.A.S.;Colombia;815000
+PRD007;"Portátil 14"" gama básica";ComputTech;Computadores;NorthWave Electronics;Estados Unidos;1469000
+PRD008;"Portátil 15"" gama media";ComputTech;Computadores;NorthWave Electronics;Estados Unidos;3067000
+PRD009;"Portátil gamer 16""";NexaByte;Computadores;USA Gadgets Inc.;Estados Unidos;4344000
+PRD010;Computador de escritorio;CoreLogic;Computadores;Bogotá Componentes Ltda.;Colombia;1932000
+PRD011;Monitor 24 pulgadas;NexaByte;Computadores;USA Gadgets Inc.;Estados Unidos;760500
+PRD012;Monitor gamer 27 pulgadas;NexaByte;Computadores;USA Gadgets Inc.;Estados Unidos;1880500
+PRD013;Teclado mecánico;CoreLogic;Computadores;Bogotá Componentes Ltda.;Colombia;267000
+PRD014;Mouse inalámbrico;CoreLogic;Computadores;Bogotá Componentes Ltda.;Colombia;117500
+PRD015;Smartphone gama económica;MoviTech;Celulares;TechImport de México;México;665000
+PRD016;Smartphone gama media;MoviTech;Celulares;TechImport de México;México;1450000
+PRD017;Smartphone gama alta;Zentra;Celulares;Seoul Devices Co.;Corea del Sur;3380500
+PRD018;Smartphone plegable;Zentra;Celulares;Seoul Devices Co.;Corea del Sur;5107500
+PRD019;Funda protectora;PixelWave;Celulares;Maquilas del Norte;México;49500
+PRD020;Cargador rápido;PixelWave;Celulares;Maquilas del Norte;México;60000
+PRD021;Licuadora;HomeTech;Electrodomésticos;Nordic Home Appliances;Alemania;155000
+PRD022;Freidora de aire;KitchenPro;Electrodomésticos;Nordic Home Appliances;Alemania;269000
+PRD023;Aire acondicionado portátil;ClimaFrío;Electrodomésticos;Deutsche Technik GmbH;Alemania;1087000
+PRD024;Aspiradora robot;HomeTech;Electrodomésticos;Nordic Home Appliances;Alemania;1152500
+PRD025;Cafetera automática;KitchenPro;Electrodomésticos;Nordic Home Appliances;Alemania;410000
+PRD026;Horno eléctrico;HomeTech;Electrodomésticos;Nordic Home Appliances;Alemania;439000
+PRD027;Cable USB-C 1m;ConnectPlus;Accesorios;ShenzhenTech Trading;China;18500
+PRD028;Power bank 10000mAh;PowerGo;Accesorios;Global Sound Supplies;China;98500
+PRD029;Soporte para laptop;DeskEasy;Accesorios;Bogotá Componentes Ltda.;Colombia;65000
+PRD030;Hub USB 4 puertos;ConnectPlus;Accesorios;ShenzhenTech Trading;China;42500
+PRD031;Memoria USB 64GB;PowerGo;Accesorios;Global Sound Supplies;China;37000
+PRD032;Cargador de pared doble puerto;PowerGo;Accesorios;Global Sound Supplies;China;40000
+PRD033;Consola de videojuegos;GameZone;Videojuegos;USA Gadgets Inc.;Estados Unidos;1901500
+PRD034;Control inalámbrico;GameZone;Videojuegos;USA Gadgets Inc.;Estados Unidos;257500
+PRD035;Videojuego edición física;PlayNex;Videojuegos;NorthWave Electronics;Estados Unidos;246500
+PRD036;Silla gamer;ArenaTech;Videojuegos;Pacífico Distribuciones;Colombia;491500
+PRD037;Audífonos gamer con micrófono;ArenaTech;Videojuegos;Pacífico Distribuciones;Colombia;347500
+PRD038;Volante para consola;PlayNex;Videojuegos;NorthWave Electronics;Estados Unidos;586000

@@ -20,7 +20,7 @@ from utils.reglas import leer_archivos_csv, renombrar_columnas, eliminar_espacio
 # Función que hace la carga (el UPSERT) y que está en db_utils/load.py
 from db_utils.load import actualizar_dimension
 
-# Carga las variables del .env (RUTA_ARCHIVOS=csvs y RUTA_DB=instance)
+# Carga las variables del .env (ruta de los CSV y datos de conexión a MySQL)
 load_dotenv()
 
 # Carpeta donde están los CSV. Si no encuentra la variable en el .env, usa "csvs"

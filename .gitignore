@@ -3,3 +3,6 @@ env/
 venv/
 .venv/
 __pycache__/
+
+# Tiene la contraseña de MySQL: NO se sube. En el repo va .env.example
+.env
